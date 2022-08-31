@@ -1,0 +1,13 @@
+____________________SETUP- Data Science & Git____________________
+
+    - Make Project Folder [Python Basics for Data Science]
+
+    - Git Initialisation
+        - D: git init
+        - D: git status
+        - D: git config user.name "ajmalrashadmarkz"
+        - D: git config user.email "ajmalrashadmarkz@gmail.com"
+        - D: git add .
+        - D: git commit -m "Git Repositry for Python for Data Science"
+        - D: git remote add origin https://github.com/ajmalrashadmarkz/08_2022_Python_Data_Science.git
+        - D: git push -u origin master
